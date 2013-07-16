@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Rong Shen",
+    "email": "rong.shen@gmail.com"
+  },
+  "name": "weibogeo",
+  "description": "Enumerate weibo country, province and city code",
+  "version": "0.0.1",
+  "homepage": "rong.im",
+  "main": "actionHero.js",
+  "keywords": [
+    "weibo"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "request": "x",
+    "form-data": "x",
+    "async": "async"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+  },
+  "scripts": {
+  },
+  "subdomain": "actionhero",
+  "domains": [
+    "demo.actionherojs.com",
+    "actionherojs.com"
+  ]
+}
+
+        

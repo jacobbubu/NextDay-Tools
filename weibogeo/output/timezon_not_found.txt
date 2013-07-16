@@ -1,0 +1,165 @@
+005 AR Argentina undefined
+001 CN China undefined
+019 AU Australia undefined
+030 BR Brazil undefined
+
+056 EC Ecuador undefined America/Guayaquil	-5.0	-5.0
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Guayaquil"
+      },
+
+060 PF French Polynesia undefined Pacific/Tahiti	-10.0	-10.0
+      "timezone": {
+        "dstOffset": -10,
+        "gmtOffset": -10,
+        "timeZoneId": "Pacific/Tahiti"
+      },
+
+055 RU Russia undefined  Europe/Moscow	3.0	4.0
+      "timezone": {
+        "dstOffset": 4,
+        "gmtOffset": 3,
+        "timeZoneId": "Europe/Moscow"
+      },
+
+070 CD Republic of the Congo undefined Africa/Brazzaville	1.0	1.0
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Brazzaville"
+      },
+
+071 CD Democratic Republic of Congo undefined Africa/Kinshasa	1.0	1.0
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 1,
+        "timeZoneId": "Africa/Kinshasa"
+      },
+
+
+134 US United States undefined
+
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Indiana/Indianapolis"
+      },
+
+PS Palestine
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Asia/Jerusalem"
+      },
+
+239 CL Chile undefined
+      "timezone": {
+        "dstOffset": -4,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Santiago"
+      },
+
+125 MY Malaysia undefined
+      "timezone": {
+        "dstOffset": 8,
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Kuala_Lumpur"
+      },
+137 MN Mongolia undefined
+      "timezone": {
+        "dstOffset": 8,
+        "gmtOffset": 8,
+        "timeZoneId": "Asia/Ulaanbaatar"
+      },
+147 MX Mexico undefined
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -6,
+        "timeZoneId": "America/Mexico_City"
+      },
+230 ID Indonesia undefined
+      "timezone": {
+        "dstOffset": 7,
+        "gmtOffset": 7,
+        "timeZoneId": "Asia/Jakarta"
+      },
+      
+219 NZ New Zealand undefined      
+      "timezone": {
+        "dstOffset": 12,
+        "gmtOffset": 13,
+        "timeZoneId": "Pacific/Auckland"
+      },
+215 ES Spain undefined
+      "timezone": {
+        "dstOffset": 2,
+        "gmtOffset": 1,
+        "timeZoneId": "Europe/Madrid"
+      },
+212 UA Ukraine undefined
+      "timezone": {
+        "dstOffset": 3,
+        "gmtOffset": 2,
+        "timeZoneId": "Europe/Kiev"
+      },
+
+214 UZ Uzbekistan undefined
+      "timezone": {
+        "dstOffset": 5,
+        "gmtOffset": 5,
+        "timeZoneId": "Asia/Tashkent"
+      },
+162 PT Portugal undefined
+      "timezone": {
+        "dstOffset": 1,
+        "gmtOffset": 0,
+        "timeZoneId": "Europe/Lisbon"
+      },
+140 FM Micronesia undefined
+      "timezone": {
+        "dstOffset": 11,
+        "gmtOffset": 11,
+        "timeZoneId": "Pacific/Kosrae"
+      },
+128 MH Marshall Islands undefined
+      "timezone": {
+        "dstOffset": 12,
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Majuro"
+      },
+093 CA Canada undefined
+      "timezone": {
+        "dstOffset": -5,
+        "gmtOffset": -5,
+        "timeZoneId": "America/Atikokan"
+      },
+088 KI Kiribati undefined
+      "timezone": {
+        "dstOffset": 12,
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Tarawa"
+      },
+
+081 KZ Kazakhstan undefined Asia/Almaty
+      "timezone": {
+        "dstOffset": 6,
+        "gmtOffset": 6,
+        "timeZoneId": "Asia/Almaty"
+      },
+
+076 GL Greenland undefined
+      "timezone": {
+        "dstOffset": -2,
+        "gmtOffset": -3,
+        "timeZoneId": "America/Godthab"
+      },
+
+
+136 UM United States Minor Outlying Islands undefined
+      "timezone": {
+        "dstOffset": 12,
+        "gmtOffset": 12,
+        "timeZoneId": "Pacific/Wake"
+      },

@@ -1,0 +1,962 @@
+[
+  {
+    "name": "China",
+    "weiboCode": "001"
+  },
+  {
+    "name": "Albania",
+    "weiboCode": "002"
+  },
+  {
+    "name": "Algeria",
+    "weiboCode": "003"
+  },
+  {
+    "name": "Afghanistan",
+    "weiboCode": "004"
+  },
+  {
+    "name": "Argentina",
+    "weiboCode": "005"
+  },
+  {
+    "name": "United Arab Emirates",
+    "weiboCode": "006"
+  },
+  {
+    "name": "Aruba",
+    "weiboCode": "007"
+  },
+  {
+    "name": "Oman",
+    "weiboCode": "008"
+  },
+  {
+    "name": "Azerbaijan",
+    "weiboCode": "009"
+  },
+  {
+    "name": "Ascension",
+    "weiboCode": "010"
+  },
+  {
+    "name": "Egypt",
+    "weiboCode": "011"
+  },
+  {
+    "name": "Ethiopia",
+    "weiboCode": "012"
+  },
+  {
+    "name": "Ireland",
+    "weiboCode": "013"
+  },
+  {
+    "name": "Estonia",
+    "weiboCode": "014"
+  },
+  {
+    "name": "Andorra",
+    "weiboCode": "015"
+  },
+  {
+    "name": "Angola",
+    "weiboCode": "016"
+  },
+  {
+    "name": "Anguilla",
+    "weiboCode": "017"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "weiboCode": "018"
+  },
+  {
+    "name": "Australia",
+    "weiboCode": "019"
+  },
+  {
+    "name": "Austria",
+    "weiboCode": "020"
+  },
+  {
+    "name": "Aland Islands",
+    "weiboCode": "021"
+  },
+  {
+    "name": "Barbados",
+    "weiboCode": "022"
+  },
+  {
+    "name": "Papua New Guinea",
+    "weiboCode": "023"
+  },
+  {
+    "name": "Bahamas",
+    "weiboCode": "024"
+  },
+  {
+    "name": "Pakistan",
+    "weiboCode": "025"
+  },
+  {
+    "name": "Paraguay",
+    "weiboCode": "026"
+  },
+  {
+    "name": "Palestine",
+    "weiboCode": "027"
+  },
+  {
+    "name": "Bahrain",
+    "weiboCode": "028"
+  },
+  {
+    "name": "Panama",
+    "weiboCode": "029"
+  },
+  {
+    "name": "Brazil",
+    "weiboCode": "030"
+  },
+  {
+    "name": "Belarus",
+    "weiboCode": "031"
+  },
+  {
+    "name": "Bermuda",
+    "weiboCode": "032"
+  },
+  {
+    "name": "Bulgaria",
+    "weiboCode": "033"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "weiboCode": "034"
+  },
+  {
+    "name": "Benin",
+    "weiboCode": "035"
+  },
+  {
+    "name": "Belgium",
+    "weiboCode": "036"
+  },
+  {
+    "name": "Iceland",
+    "weiboCode": "037"
+  },
+  {
+    "name": "Puerto Rico",
+    "weiboCode": "038"
+  },
+  {
+    "name": "Poland",
+    "weiboCode": "039"
+  },
+  {
+    "name": "Bolivia",
+    "weiboCode": "040"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "weiboCode": "041"
+  },
+  {
+    "name": "Botswana",
+    "weiboCode": "042"
+  },
+  {
+    "name": "Belize",
+    "weiboCode": "043"
+  },
+  {
+    "name": "Bhutan",
+    "weiboCode": "044"
+  },
+  {
+    "name": "Burkina Faso",
+    "weiboCode": "045"
+  },
+  {
+    "name": "Burundi",
+    "weiboCode": "046"
+  },
+  {
+    "name": "Bouvet Island",
+    "weiboCode": "047"
+  },
+  {
+    "name": "North Korea",
+    "weiboCode": "048"
+  },
+  {
+    "name": "Denmark",
+    "weiboCode": "049"
+  },
+  {
+    "name": "Germany",
+    "weiboCode": "050"
+  },
+  {
+    "name": "East Timor",
+    "weiboCode": "051"
+  },
+  {
+    "name": "Togo",
+    "weiboCode": "052"
+  },
+  {
+    "name": "Dominica",
+    "weiboCode": "053"
+  },
+  {
+    "name": "Dominican Republic",
+    "weiboCode": "054"
+  },
+  {
+    "name": "Russia",
+    "weiboCode": "055"
+  },
+  {
+    "name": "Ecuador",
+    "weiboCode": "056"
+  },
+  {
+    "name": "Eritrea",
+    "weiboCode": "057"
+  },
+  {
+    "name": "France",
+    "weiboCode": "058"
+  },
+  {
+    "name": "Faroe Islands",
+    "weiboCode": "059"
+  },
+  {
+    "name": "French Polynesia",
+    "weiboCode": "060"
+  },
+  {
+    "name": "French Guiana",
+    "weiboCode": "061"
+  },
+  {
+    "name": "French Southern Territory",
+    "weiboCode": "062"
+  },
+  {
+    "name": "Vatican",
+    "weiboCode": "063"
+  },
+  {
+    "name": "Philippines",
+    "weiboCode": "064"
+  },
+  {
+    "name": "Fiji",
+    "weiboCode": "065"
+  },
+  {
+    "name": "Finland",
+    "weiboCode": "066"
+  },
+  {
+    "name": "Cape Verde",
+    "weiboCode": "067"
+  },
+  {
+    "name": "Falkland Islands",
+    "weiboCode": "068"
+  },
+  {
+    "name": "Gambia",
+    "weiboCode": "069"
+  },
+  {
+    "name": "Republic of the Congo",
+    "weiboCode": "070"
+  },
+  {
+    "name": "Democratic Republic of Congo",
+    "weiboCode": "071"
+  },
+  {
+    "name": "Colombia",
+    "weiboCode": "072"
+  },
+  {
+    "name": "Costa Rica",
+    "weiboCode": "073"
+  },
+  {
+    "name": "Guernsey",
+    "weiboCode": "074"
+  },
+  {
+    "name": "Grenada",
+    "weiboCode": "075"
+  },
+  {
+    "name": "Greenland",
+    "weiboCode": "076"
+  },
+  {
+    "name": "Cuba",
+    "weiboCode": "077"
+  },
+  {
+    "name": "Guadeloupe",
+    "weiboCode": "078"
+  },
+  {
+    "name": "Guam",
+    "weiboCode": "079"
+  },
+  {
+    "name": "Guyana",
+    "weiboCode": "080"
+  },
+  {
+    "name": "Kazakhstan",
+    "weiboCode": "081"
+  },
+  {
+    "name": "Haiti",
+    "weiboCode": "082"
+  },
+  {
+    "name": "South Korea",
+    "weiboCode": "083"
+  },
+  {
+    "name": "Netherlands",
+    "weiboCode": "084"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "weiboCode": "085"
+  },
+  {
+    "name": "Heard and McDonald Islands",
+    "weiboCode": "086"
+  },
+  {
+    "name": "Honduras",
+    "weiboCode": "087"
+  },
+  {
+    "name": "Kiribati",
+    "weiboCode": "088"
+  },
+  {
+    "name": "Djibouti",
+    "weiboCode": "089"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "weiboCode": "090"
+  },
+  {
+    "name": "Guinea",
+    "weiboCode": "091"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "weiboCode": "092"
+  },
+  {
+    "name": "Canada",
+    "weiboCode": "093"
+  },
+  {
+    "name": "Ghana",
+    "weiboCode": "094"
+  },
+  {
+    "name": "Gabon",
+    "weiboCode": "095"
+  },
+  {
+    "name": "Cambodia",
+    "weiboCode": "096"
+  },
+  {
+    "name": "Czech Republic",
+    "weiboCode": "097"
+  },
+  {
+    "name": "Zimbabwe",
+    "weiboCode": "098"
+  },
+  {
+    "name": "Cameroon",
+    "weiboCode": "099"
+  },
+  {
+    "name": "Qatar",
+    "weiboCode": "100"
+  },
+  {
+    "name": "Cayman Islands",
+    "weiboCode": "101"
+  },
+  {
+    "name": "Cocos Islands",
+    "weiboCode": "102"
+  },
+  {
+    "name": "Comoros",
+    "weiboCode": "103"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "weiboCode": "104"
+  },
+  {
+    "name": "Kuwait",
+    "weiboCode": "105"
+  },
+  {
+    "name": "Croatia",
+    "weiboCode": "106"
+  },
+  {
+    "name": "Kenya",
+    "weiboCode": "107"
+  },
+  {
+    "name": "Cook Islands",
+    "weiboCode": "108"
+  },
+  {
+    "name": "Latvia",
+    "weiboCode": "109"
+  },
+  {
+    "name": "Lesotho",
+    "weiboCode": "110"
+  },
+  {
+    "name": "Laos",
+    "weiboCode": "111"
+  },
+  {
+    "name": "Lebanon",
+    "weiboCode": "112"
+  },
+  {
+    "name": "Liberia",
+    "weiboCode": "113"
+  },
+  {
+    "name": "Libya",
+    "weiboCode": "114"
+  },
+  {
+    "name": "Lithuania",
+    "weiboCode": "115"
+  },
+  {
+    "name": "Liechtenstein",
+    "weiboCode": "116"
+  },
+  {
+    "name": "Réunion",
+    "weiboCode": "117"
+  },
+  {
+    "name": "Luxembourg",
+    "weiboCode": "118"
+  },
+  {
+    "name": "Rwanda",
+    "weiboCode": "119"
+  },
+  {
+    "name": "Romania",
+    "weiboCode": "120"
+  },
+  {
+    "name": "Madagascar",
+    "weiboCode": "121"
+  },
+  {
+    "name": "Maldives",
+    "weiboCode": "122"
+  },
+  {
+    "name": "Malta",
+    "weiboCode": "123"
+  },
+  {
+    "name": "Malawi",
+    "weiboCode": "124"
+  },
+  {
+    "name": "Malaysia",
+    "weiboCode": "125"
+  },
+  {
+    "name": "Mali",
+    "weiboCode": "126"
+  },
+  {
+    "name": "Macedonia",
+    "weiboCode": "127"
+  },
+  {
+    "name": "Marshall Islands",
+    "weiboCode": "128"
+  },
+  {
+    "name": "Martinique",
+    "weiboCode": "129"
+  },
+  {
+    "name": "Mayotte",
+    "weiboCode": "130"
+  },
+  {
+    "name": "Isle of Man",
+    "weiboCode": "131"
+  },
+  {
+    "name": "Mauritius",
+    "weiboCode": "132"
+  },
+  {
+    "name": "Mauritania",
+    "weiboCode": "133"
+  },
+  {
+    "name": "United States",
+    "weiboCode": "134"
+  },
+  {
+    "name": "American Samoa",
+    "weiboCode": "135"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "weiboCode": "136"
+  },
+  {
+    "name": "Mongolia",
+    "weiboCode": "137"
+  },
+  {
+    "name": "Montserrat",
+    "weiboCode": "138"
+  },
+  {
+    "name": "Bangladesh",
+    "weiboCode": "139"
+  },
+  {
+    "name": "Micronesia",
+    "weiboCode": "140"
+  },
+  {
+    "name": "Peru",
+    "weiboCode": "141"
+  },
+  {
+    "name": "Myanmar",
+    "weiboCode": "142"
+  },
+  {
+    "name": "Moldova",
+    "weiboCode": "143"
+  },
+  {
+    "name": "Morocco",
+    "weiboCode": "144"
+  },
+  {
+    "name": "Monaco",
+    "weiboCode": "145"
+  },
+  {
+    "name": "Mozambique",
+    "weiboCode": "146"
+  },
+  {
+    "name": "Mexico",
+    "weiboCode": "147"
+  },
+  {
+    "name": "Namibia",
+    "weiboCode": "148"
+  },
+  {
+    "name": "South Africa",
+    "weiboCode": "149"
+  },
+  {
+    "name": "Antarctica",
+    "weiboCode": "150"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "weiboCode": "151"
+  },
+  {
+    "name": "Nauru",
+    "weiboCode": "152"
+  },
+  {
+    "name": "Nepal",
+    "weiboCode": "153"
+  },
+  {
+    "name": "Nicaragua",
+    "weiboCode": "154"
+  },
+  {
+    "name": "Niger",
+    "weiboCode": "155"
+  },
+  {
+    "name": "Nigeria",
+    "weiboCode": "156"
+  },
+  {
+    "name": "Niue",
+    "weiboCode": "157"
+  },
+  {
+    "name": "Norway",
+    "weiboCode": "158"
+  },
+  {
+    "name": "Norfolk Island",
+    "weiboCode": "159"
+  },
+  {
+    "name": "Palau",
+    "weiboCode": "160"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "weiboCode": "161"
+  },
+  {
+    "name": "Portugal",
+    "weiboCode": "162"
+  },
+  {
+    "name": "Georgia",
+    "weiboCode": "163"
+  },
+  {
+    "name": "Japan",
+    "weiboCode": "164"
+  },
+  {
+    "name": "Sweden",
+    "weiboCode": "165"
+  },
+  {
+    "name": "Switzerland",
+    "weiboCode": "166"
+  },
+  {
+    "name": "El Salvador",
+    "weiboCode": "167"
+  },
+  {
+    "name": "Samoa",
+    "weiboCode": "168"
+  },
+  {
+    "name": "Serbia and Montenegro",
+    "weiboCode": "169"
+  },
+  {
+    "name": "Sierra Leone",
+    "weiboCode": "170"
+  },
+  {
+    "name": "Senegal",
+    "weiboCode": "171"
+  },
+  {
+    "name": "Cyprus",
+    "weiboCode": "172"
+  },
+  {
+    "name": "Seychelles",
+    "weiboCode": "173"
+  },
+  {
+    "name": "Saudi Arabia",
+    "weiboCode": "174"
+  },
+  {
+    "name": "Christmas Island",
+    "weiboCode": "175"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "weiboCode": "176"
+  },
+  {
+    "name": "St. Helena",
+    "weiboCode": "177"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "weiboCode": "178"
+  },
+  {
+    "name": "Saint Lucia",
+    "weiboCode": "179"
+  },
+  {
+    "name": "San Marino",
+    "weiboCode": "180"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "weiboCode": "181"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "weiboCode": "182"
+  },
+  {
+    "name": "Sri Lanka",
+    "weiboCode": "183"
+  },
+  {
+    "name": "Slovakia",
+    "weiboCode": "184"
+  },
+  {
+    "name": "Slovenia",
+    "weiboCode": "185"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "weiboCode": "186"
+  },
+  {
+    "name": "Swaziland",
+    "weiboCode": "187"
+  },
+  {
+    "name": "Sudan",
+    "weiboCode": "188"
+  },
+  {
+    "name": "Suriname",
+    "weiboCode": "189"
+  },
+  {
+    "name": "Solomon Islands",
+    "weiboCode": "190"
+  },
+  {
+    "name": "Somalia",
+    "weiboCode": "191"
+  },
+  {
+    "name": "Tajikistan",
+    "weiboCode": "192"
+  },
+  {
+    "name": "Thailand",
+    "weiboCode": "193"
+  },
+  {
+    "name": "Tanzania",
+    "weiboCode": "194"
+  },
+  {
+    "name": "Tonga",
+    "weiboCode": "195"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "weiboCode": "196"
+  },
+  {
+    "name": "Tristan da Cunha",
+    "weiboCode": "197"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "weiboCode": "198"
+  },
+  {
+    "name": "Tunisia",
+    "weiboCode": "199"
+  },
+  {
+    "name": "Tuvalu",
+    "weiboCode": "200"
+  },
+  {
+    "name": "Turkey",
+    "weiboCode": "201"
+  },
+  {
+    "name": "Turkmenistan",
+    "weiboCode": "202"
+  },
+  {
+    "name": "Tokelau",
+    "weiboCode": "203"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "weiboCode": "204"
+  },
+  {
+    "name": "Vanuatu",
+    "weiboCode": "205"
+  },
+  {
+    "name": "Guatemala",
+    "weiboCode": "206"
+  },
+  {
+    "name": "Virgin Islands U.S.",
+    "weiboCode": "207"
+  },
+  {
+    "name": "Virgin Islands British",
+    "weiboCode": "208"
+  },
+  {
+    "name": "Venezuela",
+    "weiboCode": "209"
+  },
+  {
+    "name": "Brunei",
+    "weiboCode": "210"
+  },
+  {
+    "name": "Uganda",
+    "weiboCode": "211"
+  },
+  {
+    "name": "Ukraine",
+    "weiboCode": "212"
+  },
+  {
+    "name": "Uruguay",
+    "weiboCode": "213"
+  },
+  {
+    "name": "Uzbekistan",
+    "weiboCode": "214"
+  },
+  {
+    "name": "Spain",
+    "weiboCode": "215"
+  },
+  {
+    "name": "Greece",
+    "weiboCode": "216"
+  },
+  {
+    "name": "Singapore",
+    "weiboCode": "217"
+  },
+  {
+    "name": "New Caledonia",
+    "weiboCode": "218"
+  },
+  {
+    "name": "New Zealand",
+    "weiboCode": "219"
+  },
+  {
+    "name": "Hungary",
+    "weiboCode": "220"
+  },
+  {
+    "name": "Syria",
+    "weiboCode": "221"
+  },
+  {
+    "name": "Jamaica",
+    "weiboCode": "222"
+  },
+  {
+    "name": "Armenia",
+    "weiboCode": "223"
+  },
+  {
+    "name": "Yemen",
+    "weiboCode": "224"
+  },
+  {
+    "name": "Iraq",
+    "weiboCode": "225"
+  },
+  {
+    "name": "Iran",
+    "weiboCode": "226"
+  },
+  {
+    "name": "Israel",
+    "weiboCode": "227"
+  },
+  {
+    "name": "Italy",
+    "weiboCode": "228"
+  },
+  {
+    "name": "India",
+    "weiboCode": "229"
+  },
+  {
+    "name": "Indonesia",
+    "weiboCode": "230"
+  },
+  {
+    "name": "United Kingdom",
+    "weiboCode": "231"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "weiboCode": "232"
+  },
+  {
+    "name": "Jordan",
+    "weiboCode": "233"
+  },
+  {
+    "name": "Vietnam",
+    "weiboCode": "234"
+  },
+  {
+    "name": "Zambia",
+    "weiboCode": "235"
+  },
+  {
+    "name": "Jersey",
+    "weiboCode": "236"
+  },
+  {
+    "name": "Chad",
+    "weiboCode": "237"
+  },
+  {
+    "name": "Gibraltar",
+    "weiboCode": "238"
+  },
+  {
+    "name": "Chile",
+    "weiboCode": "239"
+  },
+  {
+    "name": "Central African Republic",
+    "weiboCode": "240"
+  }
+]

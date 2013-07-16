@@ -1,0 +1,7 @@
+{ weiboCode: '068', name: 'Frank Islands' } 'Not Found'
+{ weiboCode: '181', name: 'St. Pierre and Mike Long Island' } 'Not Found' Saint Pierre and Miquelon
+{ weiboCode: '186', name: 'Svalbard and Jan Martyn' } 'Not Found' Svalbard and Jan Martyn
+{ weiboCode: '197', name: 'Tristan da Kun Ha' } 'Not Found' Tristan da Cunha
+{ weiboCode: '196', name: 'Turks and Keck Benitez Islands' } 'Not Found' Turks and Caicos Islands
+{ weiboCode: '207', name: 'Virgin Islands， U.S.' } 'Not Found'
+{ weiboCode: '208', name: 'Virgin Islands， British' } 'Not Found'

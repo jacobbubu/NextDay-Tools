@@ -1,0 +1,2322 @@
+[
+  {
+    "countryCode": "AL",
+    "name": "Albania",
+    "provinces": [
+    ],
+    "weiboCode": "002"
+  },
+  {
+    "countryCode": "DZ",
+    "name": "Algeria",
+    "provinces": [
+    ],
+    "weiboCode": "003"
+  },
+  {
+    "countryCode": "AW",
+    "name": "Aruba",
+    "provinces": [
+    ],
+    "weiboCode": "007"
+  },
+  {
+    "countryCode": "AR",
+    "name": "Argentina",
+    "provinces": [
+    ],
+    "weiboCode": "005"
+  },
+  {
+    "countryCode": "AF",
+    "name": "Afghanistan",
+    "provinces": [
+    ],
+    "weiboCode": "004"
+  },
+  {
+    "countryCode": "OM",
+    "name": "Oman",
+    "provinces": [
+    ],
+    "weiboCode": "008"
+  },
+  {
+    "countryCode": "AE",
+    "name": "United Arab Emirates",
+    "provinces": [
+    ],
+    "weiboCode": "006"
+  },
+  {
+    "countryCode": "SH",
+    "name": "Ascension",
+    "provinces": [
+    ],
+    "weiboCode": "010"
+  },
+  {
+    "countryCode": "AZ",
+    "name": "Azerbaijan",
+    "provinces": [
+    ],
+    "weiboCode": "009"
+  },
+  {
+    "countryCode": "CN",
+    "name": "China",
+    "provinces": [
+      {
+        "countryCode": "CN",
+        "name": "Beijing",
+        "weiboProvCode": "001011"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Tianjin",
+        "weiboProvCode": "001012"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Hebei",
+        "weiboProvCode": "001013"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Shanxi",
+        "weiboProvCode": "001014"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Inner Mongolia",
+        "weiboProvCode": "001015"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Liaoning",
+        "weiboProvCode": "001021"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Jilin",
+        "weiboProvCode": "001022"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Heilongjiang",
+        "weiboProvCode": "001023"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Shanghai",
+        "weiboProvCode": "001031"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Jiangsu",
+        "weiboProvCode": "001032"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Zhejiang",
+        "weiboProvCode": "001033"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Anhui",
+        "weiboProvCode": "001034"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Fujian",
+        "weiboProvCode": "001035"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Jiangxi",
+        "weiboProvCode": "001036"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Shandong",
+        "weiboProvCode": "001037"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Henan",
+        "weiboProvCode": "001041"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Hubei",
+        "weiboProvCode": "001042"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Hunan",
+        "weiboProvCode": "001043"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Guangdong",
+        "weiboProvCode": "001044"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Guangxi",
+        "weiboProvCode": "001045"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Hainan",
+        "weiboProvCode": "001046"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Chongqing",
+        "weiboProvCode": "001050"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Sichuan",
+        "weiboProvCode": "001051"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Guizhou",
+        "weiboProvCode": "001052"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Yunnan",
+        "weiboProvCode": "001053"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Tibet",
+        "weiboProvCode": "001054"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Shaanxi",
+        "weiboProvCode": "001061"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Gansu",
+        "weiboProvCode": "001062"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Qinghai",
+        "weiboProvCode": "001063"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Ningxia",
+        "weiboProvCode": "001064"
+      },
+      {
+        "countryCode": "CN",
+        "name": "Xinjiang",
+        "weiboProvCode": "001065"
+      },
+      {
+        "countryCode": "TW",
+        "name": "Taiwan",
+        "weiboProvCode": "001071"
+      },
+      {
+        "countryCode": "HK",
+        "name": "Hong Kong",
+        "weiboProvCode": "001081"
+      },
+      {
+        "countryCode": "MO",
+        "name": "Macau",
+        "weiboProvCode": "001082"
+      }
+    ],
+    "weiboCode": "001"
+  },
+  {
+    "countryCode": "ET",
+    "name": "Ethiopia",
+    "provinces": [
+    ],
+    "weiboCode": "012"
+  },
+  {
+    "countryCode": "EG",
+    "name": "Egypt",
+    "provinces": [
+    ],
+    "weiboCode": "011"
+  },
+  {
+    "countryCode": "EE",
+    "name": "Estonia",
+    "provinces": [
+    ],
+    "weiboCode": "014"
+  },
+  {
+    "countryCode": "AO",
+    "name": "Angola",
+    "provinces": [
+    ],
+    "weiboCode": "016"
+  },
+  {
+    "countryCode": "AD",
+    "name": "Andorra",
+    "provinces": [
+    ],
+    "weiboCode": "015"
+  },
+  {
+    "countryCode": "AU",
+    "name": "Australia",
+    "provinces": [
+      {
+        "countryCode": "AU",
+        "name": "Northern Territory",
+        "weiboProvCode": "019001"
+      },
+      {
+        "countryCode": "AU",
+        "name": "Canberra",
+        "weiboProvCode": "019002"
+      },
+      {
+        "countryCode": "AU",
+        "name": "Queensland",
+        "weiboProvCode": "019003"
+      },
+      {
+        "countryCode": "AU",
+        "name": "South Australia",
+        "weiboProvCode": "019004"
+      },
+      {
+        "countryCode": "AU",
+        "name": "Tasmania",
+        "weiboProvCode": "019005"
+      },
+      {
+        "countryCode": "AU",
+        "name": "Victoria",
+        "weiboProvCode": "019006"
+      },
+      {
+        "countryCode": "AU",
+        "name": "Western Australia",
+        "weiboProvCode": "019007"
+      },
+      {
+        "countryCode": "AU",
+        "name": "New South Wales",
+        "weiboProvCode": "019008"
+      }
+    ],
+    "weiboCode": "019"
+  },
+  {
+    "countryCode": "IE",
+    "name": "Ireland",
+    "provinces": [
+    ],
+    "weiboCode": "013"
+  },
+  {
+    "countryCode": "AT",
+    "name": "Austria",
+    "provinces": [
+    ],
+    "weiboCode": "020"
+  },
+  {
+    "countryCode": "AG",
+    "name": "Antigua and Barbuda",
+    "provinces": [
+    ],
+    "weiboCode": "018"
+  },
+  {
+    "countryCode": "AI",
+    "name": "Anguilla",
+    "provinces": [
+    ],
+    "weiboCode": "017"
+  },
+  {
+    "countryCode": "AX",
+    "name": "Aland Islands",
+    "provinces": [
+    ],
+    "weiboCode": "021"
+  },
+  {
+    "countryCode": "BS",
+    "name": "Bahamas",
+    "provinces": [
+    ],
+    "weiboCode": "024"
+  },
+  {
+    "countryCode": "PG",
+    "name": "Papua New Guinea",
+    "provinces": [
+    ],
+    "weiboCode": "023"
+  },
+  {
+    "countryCode": "PK",
+    "name": "Pakistan",
+    "provinces": [
+    ],
+    "weiboCode": "025"
+  },
+  {
+    "countryCode": "BH",
+    "name": "Bahrain",
+    "provinces": [
+    ],
+    "weiboCode": "028"
+  },
+  {
+    "countryCode": "BB",
+    "name": "Barbados",
+    "provinces": [
+    ],
+    "weiboCode": "022"
+  },
+  {
+    "countryCode": "PY",
+    "name": "Paraguay",
+    "provinces": [
+    ],
+    "weiboCode": "026"
+  },
+  {
+    "countryCode": "PS",
+    "name": "Palestine",
+    "provinces": [
+    ],
+    "weiboCode": "027"
+  },
+  {
+    "countryCode": "BY",
+    "name": "Belarus",
+    "provinces": [
+    ],
+    "weiboCode": "031"
+  },
+  {
+    "countryCode": "BM",
+    "name": "Bermuda",
+    "provinces": [
+    ],
+    "weiboCode": "032"
+  },
+  {
+    "countryCode": "BG",
+    "name": "Bulgaria",
+    "provinces": [
+    ],
+    "weiboCode": "033"
+  },
+  {
+    "countryCode": "PA",
+    "name": "Panama",
+    "provinces": [
+    ],
+    "weiboCode": "029"
+  },
+  {
+    "countryCode": "BJ",
+    "name": "Benin",
+    "provinces": [
+    ],
+    "weiboCode": "035"
+  },
+  {
+    "countryCode": "BE",
+    "name": "Belgium",
+    "provinces": [
+    ],
+    "weiboCode": "036"
+  },
+  {
+    "countryCode": "MP",
+    "name": "Northern Mariana Islands",
+    "provinces": [
+    ],
+    "weiboCode": "034"
+  },
+  {
+    "countryCode": "IS",
+    "name": "Iceland",
+    "provinces": [
+    ],
+    "weiboCode": "037"
+  },
+  {
+    "countryCode": "PR",
+    "name": "Puerto Rico",
+    "provinces": [
+    ],
+    "weiboCode": "038"
+  },
+  {
+    "countryCode": "BO",
+    "name": "Bolivia",
+    "provinces": [
+    ],
+    "weiboCode": "040"
+  },
+  {
+    "countryCode": "BA",
+    "name": "Bosnia and Herzegovina",
+    "provinces": [
+    ],
+    "weiboCode": "041"
+  },
+  {
+    "countryCode": "BZ",
+    "name": "Belize",
+    "provinces": [
+    ],
+    "weiboCode": "043"
+  },
+  {
+    "countryCode": "PL",
+    "name": "Poland",
+    "provinces": [
+    ],
+    "weiboCode": "039"
+  },
+  {
+    "countryCode": "BW",
+    "name": "Botswana",
+    "provinces": [
+    ],
+    "weiboCode": "042"
+  },
+  {
+    "countryCode": "BF",
+    "name": "Burkina Faso",
+    "provinces": [
+    ],
+    "weiboCode": "045"
+  },
+  {
+    "countryCode": "BT",
+    "name": "Bhutan",
+    "provinces": [
+    ],
+    "weiboCode": "044"
+  },
+  {
+    "countryCode": "BV",
+    "name": "Bouvet Island",
+    "provinces": [
+    ],
+    "weiboCode": "047"
+  },
+  {
+    "countryCode": "BI",
+    "name": "Burundi",
+    "provinces": [
+    ],
+    "weiboCode": "046"
+  },
+  {
+    "countryCode": "DE",
+    "name": "Germany",
+    "provinces": [
+    ],
+    "weiboCode": "050"
+  },
+  {
+    "countryCode": "KP",
+    "name": "North Korea",
+    "provinces": [
+    ],
+    "weiboCode": "048"
+  },
+  {
+    "countryCode": "TG",
+    "name": "Togo",
+    "provinces": [
+    ],
+    "weiboCode": "052"
+  },
+  {
+    "countryCode": "TL",
+    "name": "East Timor",
+    "provinces": [
+    ],
+    "weiboCode": "051"
+  },
+  {
+    "countryCode": "DO",
+    "name": "Dominican Republic",
+    "provinces": [
+    ],
+    "weiboCode": "054"
+  },
+  {
+    "countryCode": "EC",
+    "name": "Ecuador",
+    "provinces": [
+    ],
+    "weiboCode": "056"
+  },
+  {
+    "countryCode": "DK",
+    "name": "Denmark",
+    "provinces": [
+    ],
+    "weiboCode": "049"
+  },
+  {
+    "countryCode": "DM",
+    "name": "Dominica",
+    "provinces": [
+    ],
+    "weiboCode": "053"
+  },
+  {
+    "countryCode": "ER",
+    "name": "Eritrea",
+    "provinces": [
+    ],
+    "weiboCode": "057"
+  },
+  {
+    "countryCode": "FO",
+    "name": "Faroe Islands",
+    "provinces": [
+    ],
+    "weiboCode": "059"
+  },
+  {
+    "countryCode": "FR",
+    "name": "France",
+    "provinces": [
+    ],
+    "weiboCode": "058"
+  },
+  {
+    "countryCode": "GF",
+    "name": "French Guiana",
+    "provinces": [
+    ],
+    "weiboCode": "061"
+  },
+  {
+    "countryCode": "PF",
+    "name": "French Polynesia",
+    "provinces": [
+    ],
+    "weiboCode": "060"
+  },
+  {
+    "countryCode": "TF",
+    "name": "French Southern Territory",
+    "provinces": [
+    ],
+    "weiboCode": "062"
+  },
+  {
+    "countryCode": "RU",
+    "name": "Russia",
+    "provinces": [
+    ],
+    "weiboCode": "055"
+  },
+  {
+    "countryCode": "FI",
+    "name": "Finland",
+    "provinces": [
+    ],
+    "weiboCode": "066"
+  },
+  {
+    "countryCode": "PH",
+    "name": "Philippines",
+    "provinces": [
+    ],
+    "weiboCode": "064"
+  },
+  {
+    "countryCode": "VA",
+    "name": "Vatican",
+    "provinces": [
+    ],
+    "weiboCode": "063"
+  },
+  {
+    "countryCode": "FJ",
+    "name": "Fiji",
+    "provinces": [
+    ],
+    "weiboCode": "065"
+  },
+  {
+    "countryCode": "CD",
+    "name": "Republic of the Congo",
+    "provinces": [
+    ],
+    "weiboCode": "070"
+  },
+  {
+    "countryCode": "GM",
+    "name": "Gambia",
+    "provinces": [
+    ],
+    "weiboCode": "069"
+  },
+  {
+    "countryCode": "CV",
+    "name": "Cape Verde",
+    "provinces": [
+    ],
+    "weiboCode": "067"
+  },
+  {
+    "countryCode": "FK",
+    "name": "Falkland Islands",
+    "provinces": [
+    ],
+    "weiboCode": "068"
+  },
+  {
+    "countryCode": "CO",
+    "name": "Colombia",
+    "provinces": [
+    ],
+    "weiboCode": "072"
+  },
+  {
+    "countryCode": "CR",
+    "name": "Costa Rica",
+    "provinces": [
+    ],
+    "weiboCode": "073"
+  },
+  {
+    "countryCode": "CD",
+    "name": "Democratic Republic of Congo",
+    "provinces": [
+    ],
+    "weiboCode": "071"
+  },
+  {
+    "countryCode": "GG",
+    "name": "Guernsey",
+    "provinces": [
+    ],
+    "weiboCode": "074"
+  },
+  {
+    "countryCode": "GD",
+    "name": "Grenada",
+    "provinces": [
+    ],
+    "weiboCode": "075"
+  },
+  {
+    "countryCode": "GP",
+    "name": "Guadeloupe",
+    "provinces": [
+    ],
+    "weiboCode": "078"
+  },
+  {
+    "countryCode": "GL",
+    "name": "Greenland",
+    "provinces": [
+    ],
+    "weiboCode": "076"
+  },
+  {
+    "countryCode": "GU",
+    "name": "Guam",
+    "provinces": [
+    ],
+    "weiboCode": "079"
+  },
+  {
+    "countryCode": "GY",
+    "name": "Guyana",
+    "provinces": [
+    ],
+    "weiboCode": "080"
+  },
+  {
+    "countryCode": "CU",
+    "name": "Cuba",
+    "provinces": [
+    ],
+    "weiboCode": "077"
+  },
+  {
+    "countryCode": "KR",
+    "name": "South Korea",
+    "provinces": [
+      {
+        "countryCode": "KR",
+        "name": "Daegu",
+        "weiboProvCode": "083001"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Daejeon",
+        "weiboProvCode": "083002"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Busan",
+        "weiboProvCode": "083003"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Gwangju",
+        "weiboProvCode": "083004"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Jeju",
+        "weiboProvCode": "083005"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Gangwon-do",
+        "weiboProvCode": "083006"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Gyeonggi-do",
+        "weiboProvCode": "083007"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Gyeongsangbuk-do",
+        "weiboProvCode": "083008"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Gyeongnam",
+        "weiboProvCode": "083009"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Jeonbuk",
+        "weiboProvCode": "083010"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Jeollanam-do",
+        "weiboProvCode": "083011"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Incheon",
+        "weiboProvCode": "083012"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Seoul",
+        "weiboProvCode": "083013"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Ulsan",
+        "weiboProvCode": "083014"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Chungbuk",
+        "weiboProvCode": "083015"
+      },
+      {
+        "countryCode": "KR",
+        "name": "Chungnam",
+        "weiboProvCode": "083016"
+      }
+    ],
+    "weiboCode": "083"
+  },
+  {
+    "countryCode": "KZ",
+    "name": "Kazakhstan",
+    "provinces": [
+    ],
+    "weiboCode": "081"
+  },
+  {
+    "countryCode": "HT",
+    "name": "Haiti",
+    "provinces": [
+    ],
+    "weiboCode": "082"
+  },
+  {
+    "countryCode": "CW",
+    "name": "Netherlands Antilles",
+    "provinces": [
+    ],
+    "weiboCode": "085"
+  },
+  {
+    "countryCode": "HM",
+    "name": "Heard and McDonald Islands",
+    "provinces": [
+    ],
+    "weiboCode": "086"
+  },
+  {
+    "countryCode": "HN",
+    "name": "Honduras",
+    "provinces": [
+    ],
+    "weiboCode": "087"
+  },
+  {
+    "countryCode": "KI",
+    "name": "Kiribati",
+    "provinces": [
+    ],
+    "weiboCode": "088"
+  },
+  {
+    "countryCode": "DJ",
+    "name": "Djibouti",
+    "provinces": [
+    ],
+    "weiboCode": "089"
+  },
+  {
+    "countryCode": "KG",
+    "name": "Kyrgyzstan",
+    "provinces": [
+    ],
+    "weiboCode": "090"
+  },
+  {
+    "countryCode": "GW",
+    "name": "Guinea-Bissau",
+    "provinces": [
+    ],
+    "weiboCode": "092"
+  },
+  {
+    "countryCode": "NL",
+    "name": "Netherlands",
+    "provinces": [
+    ],
+    "weiboCode": "084"
+  },
+  {
+    "countryCode": "GH",
+    "name": "Ghana",
+    "provinces": [
+    ],
+    "weiboCode": "094"
+  },
+  {
+    "countryCode": "GN",
+    "name": "Guinea",
+    "provinces": [
+    ],
+    "weiboCode": "091"
+  },
+  {
+    "countryCode": "GA",
+    "name": "Gabon",
+    "provinces": [
+    ],
+    "weiboCode": "095"
+  },
+  {
+    "countryCode": "KH",
+    "name": "Cambodia",
+    "provinces": [
+    ],
+    "weiboCode": "096"
+  },
+  {
+    "countryCode": "CZ",
+    "name": "Czech Republic",
+    "provinces": [
+    ],
+    "weiboCode": "097"
+  },
+  {
+    "countryCode": "CA",
+    "name": "Canada",
+    "provinces": [
+    ],
+    "weiboCode": "093"
+  },
+  {
+    "countryCode": "CM",
+    "name": "Cameroon",
+    "provinces": [
+    ],
+    "weiboCode": "099"
+  },
+  {
+    "countryCode": "ZW",
+    "name": "Zimbabwe",
+    "provinces": [
+    ],
+    "weiboCode": "098"
+  },
+  {
+    "countryCode": "CC",
+    "name": "Cocos Islands",
+    "provinces": [
+    ],
+    "weiboCode": "102"
+  },
+  {
+    "countryCode": "QA",
+    "name": "Qatar",
+    "provinces": [
+    ],
+    "weiboCode": "100"
+  },
+  {
+    "countryCode": "KY",
+    "name": "Cayman Islands",
+    "provinces": [
+    ],
+    "weiboCode": "101"
+  },
+  {
+    "countryCode": "KW",
+    "name": "Kuwait",
+    "provinces": [
+    ],
+    "weiboCode": "105"
+  },
+  {
+    "countryCode": "KM",
+    "name": "Comoros",
+    "provinces": [
+    ],
+    "weiboCode": "103"
+  },
+  {
+    "countryCode": "HR",
+    "name": "Croatia",
+    "provinces": [
+    ],
+    "weiboCode": "106"
+  },
+  {
+    "countryCode": "CI",
+    "name": "Côte d'Ivoire",
+    "provinces": [
+    ],
+    "weiboCode": "104"
+  },
+  {
+    "countryCode": "KE",
+    "name": "Kenya",
+    "provinces": [
+    ],
+    "weiboCode": "107"
+  },
+  {
+    "countryCode": "CK",
+    "name": "Cook Islands",
+    "provinces": [
+    ],
+    "weiboCode": "108"
+  },
+  {
+    "countryCode": "LS",
+    "name": "Lesotho",
+    "provinces": [
+    ],
+    "weiboCode": "110"
+  },
+  {
+    "countryCode": "LV",
+    "name": "Latvia",
+    "provinces": [
+    ],
+    "weiboCode": "109"
+  },
+  {
+    "countryCode": "LR",
+    "name": "Liberia",
+    "provinces": [
+    ],
+    "weiboCode": "113"
+  },
+  {
+    "countryCode": "LA",
+    "name": "Laos",
+    "provinces": [
+    ],
+    "weiboCode": "111"
+  },
+  {
+    "countryCode": "RE",
+    "name": "Réunion",
+    "provinces": [
+    ],
+    "weiboCode": "117"
+  },
+  {
+    "countryCode": "LY",
+    "name": "Libya",
+    "provinces": [
+    ],
+    "weiboCode": "114"
+  },
+  {
+    "countryCode": "LI",
+    "name": "Liechtenstein",
+    "provinces": [
+    ],
+    "weiboCode": "116"
+  },
+  {
+    "countryCode": "LU",
+    "name": "Luxembourg",
+    "provinces": [
+    ],
+    "weiboCode": "118"
+  },
+  {
+    "countryCode": "LT",
+    "name": "Lithuania",
+    "provinces": [
+    ],
+    "weiboCode": "115"
+  },
+  {
+    "countryCode": "RW",
+    "name": "Rwanda",
+    "provinces": [
+    ],
+    "weiboCode": "119"
+  },
+  {
+    "countryCode": "RO",
+    "name": "Romania",
+    "provinces": [
+    ],
+    "weiboCode": "120"
+  },
+  {
+    "countryCode": "MG",
+    "name": "Madagascar",
+    "provinces": [
+    ],
+    "weiboCode": "121"
+  },
+  {
+    "countryCode": "LB",
+    "name": "Lebanon",
+    "provinces": [
+    ],
+    "weiboCode": "112"
+  },
+  {
+    "countryCode": "MV",
+    "name": "Maldives",
+    "provinces": [
+    ],
+    "weiboCode": "122"
+  },
+  {
+    "countryCode": "MT",
+    "name": "Malta",
+    "provinces": [
+    ],
+    "weiboCode": "123"
+  },
+  {
+    "countryCode": "MY",
+    "name": "Malaysia",
+    "provinces": [
+      {
+        "countryCode": "MY",
+        "name": "Pulau Pinang",
+        "weiboProvCode": "125001"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Perlis",
+        "weiboProvCode": "125002"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Terengganu",
+        "weiboProvCode": "125003"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Kedah",
+        "weiboProvCode": "125004"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Kelantan",
+        "weiboProvCode": "125005"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Kuala Lumpur",
+        "weiboProvCode": "125006"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Malacca",
+        "weiboProvCode": "125007"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Labuan",
+        "weiboProvCode": "125008"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Pahang",
+        "weiboProvCode": "125009"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Perak",
+        "weiboProvCode": "125010"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Johor",
+        "weiboProvCode": "125011"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Negeri Sembilan",
+        "weiboProvCode": "125012"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Sabah",
+        "weiboProvCode": "125013"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Sarawak",
+        "weiboProvCode": "125014"
+      },
+      {
+        "countryCode": "MY",
+        "name": "Selangor",
+        "weiboProvCode": "125015"
+      }
+    ],
+    "weiboCode": "125"
+  },
+  {
+    "countryCode": "MW",
+    "name": "Malawi",
+    "provinces": [
+    ],
+    "weiboCode": "124"
+  },
+  {
+    "countryCode": "MH",
+    "name": "Marshall Islands",
+    "provinces": [
+    ],
+    "weiboCode": "128"
+  },
+  {
+    "countryCode": "MQ",
+    "name": "Martinique",
+    "provinces": [
+    ],
+    "weiboCode": "129"
+  },
+  {
+    "countryCode": "MK",
+    "name": "Macedonia",
+    "provinces": [
+    ],
+    "weiboCode": "127"
+  },
+  {
+    "countryCode": "ML",
+    "name": "Mali",
+    "provinces": [
+    ],
+    "weiboCode": "126"
+  },
+  {
+    "countryCode": "YT",
+    "name": "Mayotte",
+    "provinces": [
+    ],
+    "weiboCode": "130"
+  },
+  {
+    "countryCode": "IM",
+    "name": "Isle of Man",
+    "provinces": [
+    ],
+    "weiboCode": "131"
+  },
+  {
+    "countryCode": "AS",
+    "name": "American Samoa",
+    "provinces": [
+    ],
+    "weiboCode": "135"
+  },
+  {
+    "countryCode": "MR",
+    "name": "Mauritania",
+    "provinces": [
+    ],
+    "weiboCode": "133"
+  },
+  {
+    "countryCode": "MS",
+    "name": "Montserrat",
+    "provinces": [
+    ],
+    "weiboCode": "138"
+  },
+  {
+    "countryCode": "MN",
+    "name": "Mongolia",
+    "provinces": [
+    ],
+    "weiboCode": "137"
+  },
+  {
+    "countryCode": "MU",
+    "name": "Mauritius",
+    "provinces": [
+    ],
+    "weiboCode": "132"
+  },
+  {
+    "countryCode": "UM",
+    "name": "United States Minor Outlying Islands",
+    "provinces": [
+    ],
+    "weiboCode": "136"
+  },
+  {
+    "countryCode": "BD",
+    "name": "Bangladesh",
+    "provinces": [
+    ],
+    "weiboCode": "139"
+  },
+  {
+    "countryCode": "PE",
+    "name": "Peru",
+    "provinces": [
+    ],
+    "weiboCode": "141"
+  },
+  {
+    "countryCode": "US",
+    "name": "United States",
+    "provinces": [
+      {
+        "countryCode": "US",
+        "name": "Arkansas",
+        "weiboProvCode": "134001"
+      },
+      {
+        "countryCode": "US",
+        "name": "Alabama",
+        "weiboProvCode": "134002"
+      },
+      {
+        "countryCode": "US",
+        "name": "Alaska",
+        "weiboProvCode": "134003"
+      },
+      {
+        "countryCode": "US",
+        "name": "Idaho",
+        "weiboProvCode": "134004"
+      },
+      {
+        "countryCode": "US",
+        "name": "Iowa",
+        "weiboProvCode": "134005"
+      },
+      {
+        "countryCode": "US",
+        "name": "North Dakota",
+        "weiboProvCode": "134006"
+      },
+      {
+        "countryCode": "US",
+        "name": "North Carolina",
+        "weiboProvCode": "134007"
+      },
+      {
+        "countryCode": "US",
+        "name": "Pennsylvania",
+        "weiboProvCode": "134008"
+      },
+      {
+        "countryCode": "US",
+        "name": "Texas",
+        "weiboProvCode": "134009"
+      },
+      {
+        "countryCode": "US",
+        "name": "Ohio",
+        "weiboProvCode": "134010"
+      },
+      {
+        "countryCode": "US",
+        "name": "Oklahoma",
+        "weiboProvCode": "134011"
+      },
+      {
+        "countryCode": "US",
+        "name": "Oregon",
+        "weiboProvCode": "134012"
+      },
+      {
+        "countryCode": "US",
+        "name": "Florida",
+        "weiboProvCode": "134013"
+      },
+      {
+        "countryCode": "US",
+        "name": "Vermont",
+        "weiboProvCode": "134014"
+      },
+      {
+        "countryCode": "US",
+        "name": "Columbia",
+        "weiboProvCode": "134015"
+      },
+      {
+        "countryCode": "US",
+        "name": "Washington",
+        "weiboProvCode": "134016"
+      },
+      {
+        "countryCode": "US",
+        "name": "Wyoming",
+        "weiboProvCode": "134017"
+      },
+      {
+        "countryCode": "US",
+        "name": "California",
+        "weiboProvCode": "134018"
+      },
+      {
+        "countryCode": "US",
+        "name": "Kansas",
+        "weiboProvCode": "134019"
+      },
+      {
+        "countryCode": "US",
+        "name": "Connecticut",
+        "weiboProvCode": "134020"
+      },
+      {
+        "countryCode": "US",
+        "name": "Colorado",
+        "weiboProvCode": "134021"
+      },
+      {
+        "countryCode": "US",
+        "name": "Kentucky",
+        "weiboProvCode": "134022"
+      },
+      {
+        "countryCode": "US",
+        "name": "Louisiana",
+        "weiboProvCode": "134023"
+      },
+      {
+        "countryCode": "US",
+        "name": "Rhode Island",
+        "weiboProvCode": "134024"
+      },
+      {
+        "countryCode": "US",
+        "name": "Maryland",
+        "weiboProvCode": "134025"
+      },
+      {
+        "countryCode": "US",
+        "name": "Massachusetts",
+        "weiboProvCode": "134026"
+      },
+      {
+        "countryCode": "US",
+        "name": "Montana",
+        "weiboProvCode": "134027"
+      },
+      {
+        "countryCode": "US",
+        "name": "Missouri",
+        "weiboProvCode": "134028"
+      },
+      {
+        "countryCode": "US",
+        "name": "Mississippi",
+        "weiboProvCode": "134029"
+      },
+      {
+        "countryCode": "US",
+        "name": "Michigan",
+        "weiboProvCode": "134030"
+      },
+      {
+        "countryCode": "US",
+        "name": "Maine",
+        "weiboProvCode": "134031"
+      },
+      {
+        "countryCode": "US",
+        "name": "Minnesota",
+        "weiboProvCode": "134032"
+      },
+      {
+        "countryCode": "US",
+        "name": "South Dakota",
+        "weiboProvCode": "134033"
+      },
+      {
+        "countryCode": "US",
+        "name": "South Carolina",
+        "weiboProvCode": "134034"
+      },
+      {
+        "countryCode": "US",
+        "name": "Nebraska",
+        "weiboProvCode": "134035"
+      },
+      {
+        "countryCode": "US",
+        "name": "Nevada",
+        "weiboProvCode": "134036"
+      },
+      {
+        "countryCode": "US",
+        "name": "New York",
+        "weiboProvCode": "134037"
+      },
+      {
+        "countryCode": "US",
+        "name": "Delaware",
+        "weiboProvCode": "134038"
+      },
+      {
+        "countryCode": "US",
+        "name": "Tennessee",
+        "weiboProvCode": "134039"
+      },
+      {
+        "countryCode": "US",
+        "name": "Wisconsin",
+        "weiboProvCode": "134040"
+      },
+      {
+        "countryCode": "US",
+        "name": "Virginia",
+        "weiboProvCode": "134041"
+      },
+      {
+        "countryCode": "US",
+        "name": "West Virginia",
+        "weiboProvCode": "134042"
+      },
+      {
+        "countryCode": "US",
+        "name": "Hawaii",
+        "weiboProvCode": "134043"
+      },
+      {
+        "countryCode": "US",
+        "name": "New Hampshire",
+        "weiboProvCode": "134044"
+      },
+      {
+        "countryCode": "US",
+        "name": "New Mexico",
+        "weiboProvCode": "134045"
+      },
+      {
+        "countryCode": "US",
+        "name": "New Jersey",
+        "weiboProvCode": "134046"
+      },
+      {
+        "countryCode": "US",
+        "name": "Arizona",
+        "weiboProvCode": "134047"
+      },
+      {
+        "countryCode": "US",
+        "name": "Illinois",
+        "weiboProvCode": "134048"
+      },
+      {
+        "countryCode": "US",
+        "name": "Indiana",
+        "weiboProvCode": "134049"
+      },
+      {
+        "countryCode": "US",
+        "name": "Utah",
+        "weiboProvCode": "134050"
+      },
+      {
+        "countryCode": "US",
+        "name": "Georgia",
+        "weiboProvCode": "134051"
+      }
+    ],
+    "weiboCode": "134"
+  },
+  {
+    "countryCode": "FM",
+    "name": "Micronesia",
+    "provinces": [
+    ],
+    "weiboCode": "140"
+  },
+  {
+    "countryCode": "MA",
+    "name": "Morocco",
+    "provinces": [
+    ],
+    "weiboCode": "144"
+  },
+  {
+    "countryCode": "MM",
+    "name": "Myanmar",
+    "provinces": [
+    ],
+    "weiboCode": "142"
+  },
+  {
+    "countryCode": "MD",
+    "name": "Moldova",
+    "provinces": [
+    ],
+    "weiboCode": "143"
+  },
+  {
+    "countryCode": "MC",
+    "name": "Monaco",
+    "provinces": [
+    ],
+    "weiboCode": "145"
+  },
+  {
+    "countryCode": "MZ",
+    "name": "Mozambique",
+    "provinces": [
+    ],
+    "weiboCode": "146"
+  },
+  {
+    "countryCode": "ZA",
+    "name": "South Africa",
+    "provinces": [
+    ],
+    "weiboCode": "149"
+  },
+  {
+    "countryCode": "TF",
+    "name": "Antarctica",
+    "provinces": [
+    ],
+    "weiboCode": "150"
+  },
+  {
+    "countryCode": "MX",
+    "name": "Mexico",
+    "provinces": [
+    ],
+    "weiboCode": "147"
+  },
+  {
+    "countryCode": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "provinces": [
+    ],
+    "weiboCode": "151"
+  },
+  {
+    "countryCode": "NA",
+    "name": "Namibia",
+    "provinces": [
+    ],
+    "weiboCode": "148"
+  },
+  {
+    "countryCode": "NP",
+    "name": "Nepal",
+    "provinces": [
+    ],
+    "weiboCode": "153"
+  },
+  {
+    "countryCode": "NR",
+    "name": "Nauru",
+    "provinces": [
+    ],
+    "weiboCode": "152"
+  },
+  {
+    "countryCode": "NI",
+    "name": "Nicaragua",
+    "provinces": [
+    ],
+    "weiboCode": "154"
+  },
+  {
+    "countryCode": "NG",
+    "name": "Nigeria",
+    "provinces": [
+    ],
+    "weiboCode": "156"
+  },
+  {
+    "countryCode": "NE",
+    "name": "Niger",
+    "provinces": [
+    ],
+    "weiboCode": "155"
+  },
+  {
+    "countryCode": "NU",
+    "name": "Niue",
+    "provinces": [
+    ],
+    "weiboCode": "157"
+  },
+  {
+    "countryCode": "NO",
+    "name": "Norway",
+    "provinces": [
+    ],
+    "weiboCode": "158"
+  },
+  {
+    "countryCode": "GE",
+    "name": "Georgia",
+    "provinces": [
+    ],
+    "weiboCode": "163"
+  },
+  {
+    "countryCode": "PW",
+    "name": "Palau",
+    "provinces": [
+    ],
+    "weiboCode": "160"
+  },
+  {
+    "countryCode": "PN",
+    "name": "Pitcairn Islands",
+    "provinces": [
+    ],
+    "weiboCode": "161"
+  },
+  {
+    "countryCode": "NF",
+    "name": "Norfolk Island",
+    "provinces": [
+    ],
+    "weiboCode": "159"
+  },
+  {
+    "countryCode": "PT",
+    "name": "Portugal",
+    "provinces": [
+    ],
+    "weiboCode": "162"
+  },
+  {
+    "countryCode": "JP",
+    "name": "Japan",
+    "provinces": [
+    ],
+    "weiboCode": "164"
+  },
+  {
+    "countryCode": "SE",
+    "name": "Sweden",
+    "provinces": [
+    ],
+    "weiboCode": "165"
+  },
+  {
+    "countryCode": "RS",
+    "name": "Serbia and Montenegro",
+    "provinces": [
+    ],
+    "weiboCode": "169"
+  },
+  {
+    "countryCode": "WS",
+    "name": "Samoa",
+    "provinces": [
+    ],
+    "weiboCode": "168"
+  },
+  {
+    "countryCode": "SN",
+    "name": "Senegal",
+    "provinces": [
+    ],
+    "weiboCode": "171"
+  },
+  {
+    "countryCode": "CH",
+    "name": "Switzerland",
+    "provinces": [
+    ],
+    "weiboCode": "166"
+  },
+  {
+    "countryCode": "SV",
+    "name": "El Salvador",
+    "provinces": [
+    ],
+    "weiboCode": "167"
+  },
+  {
+    "countryCode": "CY",
+    "name": "Cyprus",
+    "provinces": [
+    ],
+    "weiboCode": "172"
+  },
+  {
+    "countryCode": "SL",
+    "name": "Sierra Leone",
+    "provinces": [
+    ],
+    "weiboCode": "170"
+  },
+  {
+    "countryCode": "SC",
+    "name": "Seychelles",
+    "provinces": [
+    ],
+    "weiboCode": "173"
+  },
+  {
+    "countryCode": "SH",
+    "name": "St. Helena",
+    "provinces": [
+    ],
+    "weiboCode": "177"
+  },
+  {
+    "countryCode": "SA",
+    "name": "Saudi Arabia",
+    "provinces": [
+    ],
+    "weiboCode": "174"
+  },
+  {
+    "countryCode": "ST",
+    "name": "Sao Tome and Principe",
+    "provinces": [
+    ],
+    "weiboCode": "176"
+  },
+  {
+    "countryCode": "CX",
+    "name": "Christmas Island",
+    "provinces": [
+    ],
+    "weiboCode": "175"
+  },
+  {
+    "countryCode": "SM",
+    "name": "San Marino",
+    "provinces": [
+    ],
+    "weiboCode": "180"
+  },
+  {
+    "countryCode": "KN",
+    "name": "Saint Kitts and Nevis",
+    "provinces": [
+    ],
+    "weiboCode": "178"
+  },
+  {
+    "countryCode": "SZ",
+    "name": "Swaziland",
+    "provinces": [
+    ],
+    "weiboCode": "187"
+  },
+  {
+    "countryCode": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "provinces": [
+    ],
+    "weiboCode": "182"
+  },
+  {
+    "countryCode": "LC",
+    "name": "Saint Lucia",
+    "provinces": [
+    ],
+    "weiboCode": "179"
+  },
+  {
+    "countryCode": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "provinces": [
+    ],
+    "weiboCode": "181"
+  },
+  {
+    "countryCode": "LK",
+    "name": "Sri Lanka",
+    "provinces": [
+    ],
+    "weiboCode": "183"
+  },
+  {
+    "countryCode": "SK",
+    "name": "Slovakia",
+    "provinces": [
+    ],
+    "weiboCode": "184"
+  },
+  {
+    "countryCode": "SI",
+    "name": "Slovenia",
+    "provinces": [
+    ],
+    "weiboCode": "185"
+  },
+  {
+    "countryCode": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "provinces": [
+    ],
+    "weiboCode": "186"
+  },
+  {
+    "countryCode": "SR",
+    "name": "Suriname",
+    "provinces": [
+    ],
+    "weiboCode": "189"
+  },
+  {
+    "countryCode": "SD",
+    "name": "Sudan",
+    "provinces": [
+    ],
+    "weiboCode": "188"
+  },
+  {
+    "countryCode": "TJ",
+    "name": "Tajikistan",
+    "provinces": [
+    ],
+    "weiboCode": "192"
+  },
+  {
+    "countryCode": "SB",
+    "name": "Solomon Islands",
+    "provinces": [
+    ],
+    "weiboCode": "190"
+  },
+  {
+    "countryCode": "SO",
+    "name": "Somalia",
+    "provinces": [
+    ],
+    "weiboCode": "191"
+  },
+  {
+    "countryCode": "TH",
+    "name": "Thailand",
+    "provinces": [
+    ],
+    "weiboCode": "193"
+  },
+  {
+    "countryCode": "TO",
+    "name": "Tonga",
+    "provinces": [
+    ],
+    "weiboCode": "195"
+  },
+  {
+    "countryCode": "TZ",
+    "name": "Tanzania",
+    "provinces": [
+    ],
+    "weiboCode": "194"
+  },
+  {
+    "countryCode": "TT",
+    "name": "Trinidad and Tobago",
+    "provinces": [
+    ],
+    "weiboCode": "198"
+  },
+  {
+    "countryCode": "TC",
+    "name": "Turks and Caicos Islands",
+    "provinces": [
+    ],
+    "weiboCode": "196"
+  },
+  {
+    "countryCode": "SH",
+    "name": "Tristan da Cunha",
+    "provinces": [
+    ],
+    "weiboCode": "197"
+  },
+  {
+    "countryCode": "TN",
+    "name": "Tunisia",
+    "provinces": [
+    ],
+    "weiboCode": "199"
+  },
+  {
+    "countryCode": "WF",
+    "name": "Wallis and Futuna",
+    "provinces": [
+    ],
+    "weiboCode": "204"
+  },
+  {
+    "countryCode": "TV",
+    "name": "Tuvalu",
+    "provinces": [
+    ],
+    "weiboCode": "200"
+  },
+  {
+    "countryCode": "VU",
+    "name": "Vanuatu",
+    "provinces": [
+    ],
+    "weiboCode": "205"
+  },
+  {
+    "countryCode": "TM",
+    "name": "Turkmenistan",
+    "provinces": [
+    ],
+    "weiboCode": "202"
+  },
+  {
+    "countryCode": "TR",
+    "name": "Turkey",
+    "provinces": [
+    ],
+    "weiboCode": "201"
+  },
+  {
+    "countryCode": "GT",
+    "name": "Guatemala",
+    "provinces": [
+    ],
+    "weiboCode": "206"
+  },
+  {
+    "countryCode": "VG",
+    "name": "Virgin Islands British",
+    "provinces": [
+    ],
+    "weiboCode": "208"
+  },
+  {
+    "countryCode": "TK",
+    "name": "Tokelau",
+    "provinces": [
+    ],
+    "weiboCode": "203"
+  },
+  {
+    "countryCode": "VE",
+    "name": "Venezuela",
+    "provinces": [
+    ],
+    "weiboCode": "209"
+  },
+  {
+    "countryCode": "BN",
+    "name": "Brunei",
+    "provinces": [
+    ],
+    "weiboCode": "210"
+  },
+  {
+    "countryCode": "VI",
+    "name": "Virgin Islands U.S.",
+    "provinces": [
+    ],
+    "weiboCode": "207"
+  },
+  {
+    "countryCode": "UG",
+    "name": "Uganda",
+    "provinces": [
+    ],
+    "weiboCode": "211"
+  },
+  {
+    "countryCode": "UY",
+    "name": "Uruguay",
+    "provinces": [
+    ],
+    "weiboCode": "213"
+  },
+  {
+    "countryCode": "ES",
+    "name": "Spain",
+    "provinces": [
+    ],
+    "weiboCode": "215"
+  },
+  {
+    "countryCode": "UA",
+    "name": "Ukraine",
+    "provinces": [
+    ],
+    "weiboCode": "212"
+  },
+  {
+    "countryCode": "UZ",
+    "name": "Uzbekistan",
+    "provinces": [
+    ],
+    "weiboCode": "214"
+  },
+  {
+    "countryCode": "GR",
+    "name": "Greece",
+    "provinces": [
+    ],
+    "weiboCode": "216"
+  },
+  {
+    "countryCode": "SG",
+    "name": "Singapore",
+    "provinces": [
+    ],
+    "weiboCode": "217"
+  },
+  {
+    "countryCode": "NZ",
+    "name": "New Zealand",
+    "provinces": [
+    ],
+    "weiboCode": "219"
+  },
+  {
+    "countryCode": "NC",
+    "name": "New Caledonia",
+    "provinces": [
+    ],
+    "weiboCode": "218"
+  },
+  {
+    "countryCode": "HU",
+    "name": "Hungary",
+    "provinces": [
+    ],
+    "weiboCode": "220"
+  },
+  {
+    "countryCode": "SY",
+    "name": "Syria",
+    "provinces": [
+    ],
+    "weiboCode": "221"
+  },
+  {
+    "countryCode": "IQ",
+    "name": "Iraq",
+    "provinces": [
+    ],
+    "weiboCode": "225"
+  },
+  {
+    "countryCode": "YE",
+    "name": "Yemen",
+    "provinces": [
+    ],
+    "weiboCode": "224"
+  },
+  {
+    "countryCode": "AM",
+    "name": "Armenia",
+    "provinces": [
+    ],
+    "weiboCode": "223"
+  },
+  {
+    "countryCode": "JM",
+    "name": "Jamaica",
+    "provinces": [
+    ],
+    "weiboCode": "222"
+  },
+  {
+    "countryCode": "IL",
+    "name": "Israel",
+    "provinces": [
+    ],
+    "weiboCode": "227"
+  },
+  {
+    "countryCode": "IT",
+    "name": "Italy",
+    "provinces": [
+    ],
+    "weiboCode": "228"
+  },
+  {
+    "countryCode": "IR",
+    "name": "Iran",
+    "provinces": [
+    ],
+    "weiboCode": "226"
+  },
+  {
+    "countryCode": "ID",
+    "name": "Indonesia",
+    "provinces": [
+    ],
+    "weiboCode": "230"
+  },
+  {
+    "countryCode": "GB",
+    "name": "United Kingdom",
+    "provinces": [
+      {
+        "countryCode": "GB",
+        "name": "Northern Ireland",
+        "weiboProvCode": "231001"
+      },
+      {
+        "countryCode": "GB",
+        "name": "Scotland",
+        "weiboProvCode": "231002"
+      },
+      {
+        "countryCode": "GB",
+        "name": "Wales",
+        "weiboProvCode": "231003"
+      },
+      {
+        "countryCode": "GB",
+        "name": "England",
+        "weiboProvCode": "231004"
+      }
+    ],
+    "weiboCode": "231"
+  },
+  {
+    "countryCode": "IN",
+    "name": "India",
+    "provinces": [
+    ],
+    "weiboCode": "229"
+  },
+  {
+    "countryCode": "ZM",
+    "name": "Zambia",
+    "provinces": [
+    ],
+    "weiboCode": "235"
+  },
+  {
+    "countryCode": "VN",
+    "name": "Vietnam",
+    "provinces": [
+    ],
+    "weiboCode": "234"
+  },
+  {
+    "countryCode": "TD",
+    "name": "Chad",
+    "provinces": [
+    ],
+    "weiboCode": "237"
+  },
+  {
+    "countryCode": "CL",
+    "name": "Chile",
+    "provinces": [
+    ],
+    "weiboCode": "239"
+  },
+  {
+    "countryCode": "GI",
+    "name": "Gibraltar",
+    "provinces": [
+    ],
+    "weiboCode": "238"
+  },
+  {
+    "countryCode": "JO",
+    "name": "Jordan",
+    "provinces": [
+    ],
+    "weiboCode": "233"
+  },
+  {
+    "countryCode": "CF",
+    "name": "Central African Republic",
+    "provinces": [
+    ],
+    "weiboCode": "240"
+  },
+  {
+    "countryCode": "IO",
+    "name": "British Indian Ocean Territory",
+    "provinces": [
+    ],
+    "weiboCode": "232"
+  },
+  {
+    "countryCode": "JE",
+    "name": "Jersey",
+    "provinces": [
+    ],
+    "weiboCode": "236"
+  },
+  {
+    "countryCode": "BR",
+    "name": "Brazil",
+    "provinces": [
+    ],
+    "weiboCode": "030"
+  }
+]

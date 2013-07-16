@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Rong Shen",
+    "email": "rong.shen@gmail.com"
+  },
+  "name": "weibogeo",
+  "description": "Prepare Timezone Data",
+  "version": "0.0.1",
+  "homepage": "rong.im",
+  "main": "actionHero.js",
+  "keywords": [
+    "weibo"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "timezone-js": "x"
+  },
+  "devDependencies": {
+  },
+  "bin": {
+  },
+  "scripts": {
+  },
+  "subdomain": "actionhero",
+  "domains": [
+  ]
+}
+
+        
